@@ -1,2 +1,2 @@
 # Check out our README at:
-[/profile/README.md]README
+[README](/profile/README.md)
